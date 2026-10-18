@@ -36,9 +36,9 @@
     "isEnabled": true
   },
   {
-    "id": "liangzi",
+ "id": "quantum",
     "name": "量子",
-    "url": "shturl.cc/yoQH6mFXFWwZ96lJJzJ8OnQ7WqaMnCDfmCf",
+    "url": "https://cj.lziapi.com/api.php/provide/vod/",
     "isEnabled": true
   },
   {
@@ -48,9 +48,9 @@
     "isEnabled": true
   },
   {
-    "id": "uku",
+"id": "uku",
     "name": "U酷",
-    "url": "shturl.cc/PmtOr4qMdVoWCDJVpt4t3KMTrN50FZnE3B",
+    "url": "https://api.ukuapi.com/api.php/provide/vod/",
     "isEnabled": true
   },
   {
@@ -60,7 +60,7 @@
     "isEnabled": true
   },
   {
-    "id": "bf",
+"id": "storm",
     "name": "暴风",
     "url": "https://bfzyapi.com/api.php/provide/vod/",
     "isEnabled": true
