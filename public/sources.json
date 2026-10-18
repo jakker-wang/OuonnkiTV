@@ -1,0 +1,14 @@
+[
+  {
+    "id": "quantum",
+    "name": "量子",
+    "url": "https://cj.lziapi.com/api.php/provide/vod/",
+    "isEnabled": true
+  },
+  {
+    "id": "storm",
+    "name": "暴风",
+    "url": "https://bfzyapi.com/api.php/provide/vod/",
+    "isEnabled": true
+  }
+]
