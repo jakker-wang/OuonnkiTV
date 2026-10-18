@@ -1,18 +1,66 @@
 [
   {
+    "id": "jinying1",
+    "name": "金鹰1",
+    "url": "https://jinyingzy.com/api.php/provide/vod",
+    "isEnabled": true
+  },
+  {
+    "id": "jinying2",
+    "name": "金鹰2",
+    "url": "https://jyzyapi.com/api.php/provide/vod",
+    "isEnabled": true
+  },
+  {
+    "id": "subo",
+    "name": "速博",
+    "url": "https://subocaiji.com/api.php/provide/vod",
+    "isEnabled": true
+  },
+  {
+    "id": "suoni",
+    "name": "索尼",
+    "url": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+    "isEnabled": true
+  },
+  {
+    "id": "hongniu",
+    "name": "红牛",
+    "url": "https://www.hongniuzy2.com/api.php/provide/vod/at/json",
+    "isEnabled": true
+  },
+  {
+    "id": "feifan",
+    "name": "非凡",
+    "url": "http://cj.ffzyapi.com/api.php/provide/vod/",
+    "isEnabled": true
+  },
+  {
+    "id": "liangzi",
+    "name": "量子",
+    "url": "shturl.cc/yoQH6mFXFWwZ96lJJzJ8OnQ7WqaMnCDfmCf",
+    "isEnabled": true
+  },
+  {
+    "id": "aikun",
+    "name": "爱坤",
+    "url": "https://ikunzyapi.com/api.php/provide/vod/at/json",
+    "isEnabled": true
+  },
+  {
     "id": "uku",
     "name": "U酷",
-    "url": "https://api.ukuapi.com/api.php/provide/vod/",
+    "url": "shturl.cc/PmtOr4qMdVoWCDJVpt4t3KMTrN50FZnE3B",
     "isEnabled": true
   },
   {
-    "id": "quantum",
-    "name": "量子",
-    "url": "https://cj.lziapi.com/api.php/provide/vod/",
+    "id": "guangsu",
+    "name": "光速",
+    "url": "https://api.guangsuapi.com/api.php/provide/vod/json",
     "isEnabled": true
   },
   {
-    "id": "storm",
+    "id": "bf",
     "name": "暴风",
     "url": "https://bfzyapi.com/api.php/provide/vod/",
     "isEnabled": true
