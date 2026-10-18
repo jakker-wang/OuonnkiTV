@@ -1,5 +1,11 @@
 [
   {
+    "id": "uku",
+    "name": "U酷",
+    "url": "https://api.ukuapi.com/api.php/provide/vod/",
+    "isEnabled": true
+  },
+  {
     "id": "quantum",
     "name": "量子",
     "url": "https://cj.lziapi.com/api.php/provide/vod/",
